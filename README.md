@@ -2,10 +2,7 @@
 
 I’m a Developer and IT Student living in Buenos Aires, Argentina. I'm keen on programming and building websites and web applications.
 
-🧑‍💻 I'm currently working in:
-
-    Novocap S.A
-
+🧑‍💻 I'm currently working in: [@novocap](https://github.com/novocap)
 
 ## Skill set:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -5,6 +5,7 @@ I’m a Developer and IT Student living in Buenos Aires, Argentina. I'm keen on 
 🧑‍💻 I'm currently working in: [@novocap](https://github.com/novocap)
 
 ## Skill set:
+![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

@@ -22,8 +22,8 @@ I’m a Developer and IT Student living in Buenos Aires, Argentina. I'm keen on 
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
-    <a href="#"><img alt="Nahuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NahuelDesimone&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Nahuel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelDesimone&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img float: "left" alt="Nahuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NahuelDesimone&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img float : "right" alt="Nahuel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelDesimone&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
 </div>
 

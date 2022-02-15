@@ -3,6 +3,7 @@
 I’m a Developer and IT Student living in Buenos Aires, Argentina. I'm keen on programming and building websites and web applications.
 
 🧑‍💻 I'm currently working in: [@novocap](https://github.com/novocap)
+
 🧑‍💻 I'm currently learning: React
 
 ## ⚡ Main Technologies:

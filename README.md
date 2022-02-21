@@ -6,7 +6,6 @@ I’m a Developer and IT Student living in Buenos Aires, Argentina. I'm keen on 
 
 🧑‍💻 I'm Currently learning: React
 
-Prueba sacando el mensaje
 
 ## ⚡ Main Technologies:
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)

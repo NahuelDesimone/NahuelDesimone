@@ -4,7 +4,7 @@ I’m a Developer and IT Student living in Buenos Aires, Argentina. I'm keen on 
 
 🧑‍💻 I'm currently working in: [@novocap](https://github.com/novocap)
 
-🧑‍💻 I'm currently learning: React
+🧑‍💻 Currently learning: React
 
 ## ⚡ Main Technologies:
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)

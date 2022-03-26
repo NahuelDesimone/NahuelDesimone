@@ -4,7 +4,7 @@ I’m a Developer and IT Student living in Buenos Aires, Argentina. I'm keen on 
 
 🧑‍💻 I'm currently working in: [@novocap](https://github.com/novocap)
 
-🧑‍💻 I'm Currently learning: React
+🧑‍💻 I'm Currently learning: React and Docker
 
 
 ## ⚡ Main Technologies:
